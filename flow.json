@@ -1,1 +1,1 @@
-[]
+[{"id":"45f1927f.e5e85c","type":"tab","label":"Flow 1","disabled":false,"info":""},{"id":"ef2b934e.985bf","type":"inject","z":"45f1927f.e5e85c","name":"","topic":"","payload":"","payloadType":"date","repeat":"","crontab":"","once":false,"onceDelay":0.1,"x":180,"y":100,"wires":[[]]}]
